@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1 : Daniel Arango Cruz 
-Estudiante 2 : Oscar Ivan García Montañez
+Estudiante 1 : Daniel Arango Cruz d.arangoc2@uniandes.edu.co 202110646
+Estudiante 2 : Oscar Ivan García Montañez oi.garcia@uniandes.edu.co 201630048
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
